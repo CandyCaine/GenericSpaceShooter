@@ -1,0 +1,14 @@
+<stagequeue>
+<stage id="1" />
+	<queue>
+		<wave order="1">
+		<mob>drone</mob>
+		<size>10</size>
+		</wave>
+
+		<wave order="2">
+		<mob>fighter</mob>
+		<size>5</size>
+		</wave>
+	</queue>
+</stagequeue>

@@ -1,0 +1,38 @@
+Generic SpaceShooter Version: 0.0.1
+
+Author: Rich Moore
+
+----
+
+Information
+
+Movement is controlled via the mouse.
+Left click to fire.
+Press ESCAPE to return to the main menu.
+
+Game plays in fullscreen at 1280x1024 resolution.
+
+The GenericSpaceShooter.jar must be kept in the same directory as the resource folder, or the game will not run.
+
+----
+
+Attribution
+
+-Images-
+
+SpaceShip Rocket - http://icongal.com/gallery/icon/37015/128/spaceship_rocket
+Author TurboMilk - turbomilk.com
+
+ABDUCTIO font - http://abc-font.com/font.php?font=ABDUCTIO
+Author: J Fischer - http://hjem.get2net.dk/jfischer/
+
+-Sound effects-
+
+All sound effects were created using Bfxr.
+www.bfxr.net
+
+-Music-
+
+Rocket Kevin MacLeod (incompetech.com) Licensed under Creative Commons "Attribution 3.0" http://creativecommons.org/licenses/by/3.0/"
+
+Rapid Arc Dan-O (danosongs.com) Licensed under Creative Commons "Attribution 3.0" http://creativecommons.org/licenses/by/3.0/"
